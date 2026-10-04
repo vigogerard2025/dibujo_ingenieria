@@ -31,7 +31,7 @@ export default function Home() {
           </h1>
         </div>
         <nav className="hidden items-center gap-10 text-lg md:flex">
-          <span className="font-bold uppercase">Ingeniería Civil</span>
+          <span className="font-bold uppercase">Ingeniería </span>
           <a href="#actividades" className="underline">
             Actividades
           </a>
