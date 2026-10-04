@@ -58,7 +58,7 @@ export default function Home() {
             Henrry Jorge Obregon Bravo
           </p>
           <div className="flex items-end justify-between text-lg font-bold uppercase sm:text-xl">
-            <span>Ingeniería Civil</span>
+            <span>Ingeniería </span>
             <span>II Ciclo - 2026</span>
           </div>
         </section>
